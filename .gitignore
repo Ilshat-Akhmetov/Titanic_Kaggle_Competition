@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Custom
-gender_submission_.*\.csv
+gender_submission_
