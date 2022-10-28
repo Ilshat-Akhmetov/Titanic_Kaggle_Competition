@@ -8,6 +8,6 @@ This competition used accuracy as a score to compare different solutions and fin
 which one is the best.
 
 
-I achieved score - 0.79425 and got into top 5% of participants.
+I achieved score - 0.79665 and got into top 5% of participants.
 
 https://www.kaggle.com/c/titanic - link to competition with full description
